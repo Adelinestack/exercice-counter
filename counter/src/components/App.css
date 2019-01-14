@@ -1,0 +1,7 @@
+body {
+  background: #1d232e;
+}
+
+.container {
+  display: flex;
+}
